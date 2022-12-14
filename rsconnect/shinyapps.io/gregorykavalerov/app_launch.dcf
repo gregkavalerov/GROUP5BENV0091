@@ -1,0 +1,11 @@
+name: app_launch
+title:
+username:
+account: gregorykavalerov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7891108
+bundleId: 6635929
+url: https://gregorykavalerov.shinyapps.io/app_launch/
+when: 1671021305.34861
+lastSyncTime: 1671021305.34862
